@@ -1,0 +1,15 @@
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\DeviareTestSQL\DeviareTestSQL\bin\Release\DeviareTestSQL.exe
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\DeviareTestSQL\DeviareTestSQL\bin\Release\DeviareTestSQL.pdb
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.Form1.resources
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.Properties.Resources.resources
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.csproj.GenerateResource.Cache
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.exe
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.pdb
+C:\Users\LocalAdmin\Documents\Visual Studio 2012\Projects\DeviareTestSQL\DeviareTestSQL\bin\Release\DeviareTestSQL.exe
+C:\Users\LocalAdmin\Documents\Visual Studio 2012\Projects\DeviareTestSQL\DeviareTestSQL\bin\Release\DeviareTestSQL.pdb
+C:\Users\LocalAdmin\Documents\Visual Studio 2012\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.csprojResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Documents\Visual Studio 2012\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.Form1.resources
+C:\Users\LocalAdmin\Documents\Visual Studio 2012\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.Properties.Resources.resources
+C:\Users\LocalAdmin\Documents\Visual Studio 2012\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.csproj.GenerateResource.Cache
+C:\Users\LocalAdmin\Documents\Visual Studio 2012\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.exe
+C:\Users\LocalAdmin\Documents\Visual Studio 2012\Projects\DeviareTestSQL\DeviareTestSQL\obj\x86\Release\DeviareTestSQL.pdb
